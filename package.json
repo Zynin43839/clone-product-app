@@ -1,0 +1,27 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zynin43839/clone-product-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zynin43839/clone-product-app/issues"
+  },
+  "homepage": "https://github.com/Zynin43839/clone-product-app#readme",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^4.19.2",
+    "mongoose": "^8.18.1"
+  }
+}
